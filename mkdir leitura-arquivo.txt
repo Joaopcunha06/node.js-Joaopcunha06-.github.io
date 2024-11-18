@@ -1,0 +1,4 @@
+mkdir leitura-arquivo
+cd leitura-arquivo
+npm init -y
+
